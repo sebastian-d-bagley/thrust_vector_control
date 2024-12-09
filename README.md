@@ -1,2 +1,2 @@
 # thrust_vector_control
-Here are all the relevant files for my sixth iteration of a thrust vector controlled model rocket.
+Here are all the relevant files for my seventh iteration of a thrust vector controlled model rocket.
